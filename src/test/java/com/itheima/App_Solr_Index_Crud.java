@@ -59,6 +59,7 @@ public class App_Solr_Index_Crud {
             System.out.println("-----华丽分割线-----");
             System.out.println("id域:"+solrDocument.get("id"));
             System.out.println("name域:"+solrDocument.get("name"));
+            System.out.println("ddddddddddd");
             System.out.println("hahaha1");
         }
     }
